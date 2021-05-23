@@ -4,3 +4,11 @@ table, th, td {
 
     text-align: center;
   }
+
+table{
+  max-width: 45em;
+}
+
+body{
+  background-color: lightslategrey;
+}
